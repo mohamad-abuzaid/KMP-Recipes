@@ -1,27 +1,28 @@
-## Recipe App Compose Multiplatform
+<img src="https://github.com/mohamad-abuzaid/KMP-Recipes/assets/935514/750071a3-3de7-4428-b161-4669e7e7abe7" width="500" alt="KMP Recipe App">
 
-Inspired by [Roaa Kadam](https://github.com/Roaa94) flutter [app](https://github.com/Roaa94/recipes_ui_app/), I wanted to do the same in Compose Multiplatform. There is a lot to explore in Compose Multiplatform from the aspect of this app like Heor Animation, Collapsable Toolbar, Staggered Animations, Gyroscope detection etc. 
+# KMP-Recipes
 
-> **Note**
-> It is still a work in progress
+## Overview
 
-## Supported Platforms
-- Android
-- iOS
-- Desktop
-- Web
+This is recipes app built using Compose Multiplatform UI that works on Android, iOS, Desktop, and Web
+platforms.
 
 
-![Screenshot 2023-10-08 at 1 23 46 PM](https://github.com/SEAbdulbasit/recipe-app/assets/33172684/bf0c9376-fb57-4498-80f6-4a72300cb8e9)
+**Supports:** Android 📱, iOS 📱, Web 🌐, Desktop 🖥️
 
-## Plans
-- Look into Android TV
+## Features ✨
 
-## Demo
+- **Compose Multiplatform (CMP)**
+- **Kotlin Multiplatform (KMP)**
 
-<img width="615" alt="Screenshot 2023-06-22 at 11 49 28 AM" src="https://github.com/SEAbdulbasit/recipe-app/assets/33172684/ac19c301-8263-4d2c-8cfc-58f27d1acdb3">
+## API & Design File:
+- API: https://developer.spotify.com/documentation/web-api/reference/get-an-album
 
 
-## Video Demo
-You can watch the video demo [here](https://www.youtube.com/watch?v=99i21nB4sI0&ab_channel=AbdulBasit)
+## Connect with Me
 
+Let's connect! Feel free to reach out on LinkedIn.
+
+LinkedIn: https://www.linkedin.com/in/mohamad-abuzaid/
+
+Happy coding! 🚀✨
